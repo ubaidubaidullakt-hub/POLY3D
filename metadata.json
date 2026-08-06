@@ -1,0 +1,6 @@
+{
+  "name": "PolyStudio 3D",
+  "description": "Advanced 3D design and animation studio with GLB & FBX import/export, 3D painting, skeletal animation, geometric primitive builder, and molecular part polygon reduction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
